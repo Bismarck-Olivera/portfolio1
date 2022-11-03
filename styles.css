@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+/*para visualizar mejor las cajas*/
+header {
+    background-color:violet;
+} 
+ 
+nav {
+    background-color:beige;
+}
+
+section {
+    background-color:pink;
+    float: left;
+    width: 75%;
+    height: 400px;
+    border: 2px solid black;
+}
+
+aside {
+    background-color:aqua;
+    float: right;
+    width: 25%;
+    height: 400px;
+    border: 2px solid black;
+}
+
+footer {
+    background-color:orange;
+}
