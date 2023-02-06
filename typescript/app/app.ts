@@ -1,2 +1,2 @@
 let message: string = 'hello word';
-console.log(message)
+console.log(message);
