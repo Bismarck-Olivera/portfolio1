@@ -1,0 +1,25 @@
+{
+  "name": "portfoliofrontend",
+  "version": "0.0.1",
+  "description": "gestor",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server -p 8456"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bismarck-Olivera/portfolioFrontend.git"
+  },
+  "keywords": [
+    "learn1"
+  ],
+  "author": "bismarck <bismarck-olivera@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bismarck-Olivera/portfolioFrontend/issues"
+  },
+  "homepage": "https://github.com/Bismarck-Olivera/portfolioFrontend#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
